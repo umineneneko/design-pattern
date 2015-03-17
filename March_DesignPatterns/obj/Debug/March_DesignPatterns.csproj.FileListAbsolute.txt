@@ -1,0 +1,12 @@
+D:\project\RnD\Design Patterns\March_DesignPatterns\March_DesignPatterns\bin\Debug\March_DesignPatterns.exe.config
+D:\project\RnD\Design Patterns\March_DesignPatterns\March_DesignPatterns\bin\Debug\March_DesignPatterns.exe
+D:\project\RnD\Design Patterns\March_DesignPatterns\March_DesignPatterns\bin\Debug\March_DesignPatterns.pdb
+D:\project\RnD\Design Patterns\March_DesignPatterns\March_DesignPatterns\obj\Debug\March_DesignPatterns.csprojResolveAssemblyReference.cache
+D:\project\RnD\Design Patterns\March_DesignPatterns\March_DesignPatterns\obj\Debug\March_DesignPatterns.exe
+D:\project\RnD\Design Patterns\March_DesignPatterns\March_DesignPatterns\obj\Debug\March_DesignPatterns.pdb
+C:\Users\umineko\Desktop\March_DesignPatterns\March_DesignPatterns\bin\Debug\March_DesignPatterns.exe.config
+C:\Users\umineko\Desktop\March_DesignPatterns\March_DesignPatterns\bin\Debug\March_DesignPatterns.exe
+C:\Users\umineko\Desktop\March_DesignPatterns\March_DesignPatterns\bin\Debug\March_DesignPatterns.pdb
+C:\Users\umineko\Desktop\March_DesignPatterns\March_DesignPatterns\obj\Debug\March_DesignPatterns.csprojResolveAssemblyReference.cache
+C:\Users\umineko\Desktop\March_DesignPatterns\March_DesignPatterns\obj\Debug\March_DesignPatterns.exe
+C:\Users\umineko\Desktop\March_DesignPatterns\March_DesignPatterns\obj\Debug\March_DesignPatterns.pdb
